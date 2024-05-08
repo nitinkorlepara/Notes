@@ -6,6 +6,8 @@ info.app.name=App name
 info.app.description=A Simple Spring Application
 info.app.version=1.0.0
 
+Spring
+server.port= 8081
 
 
 ---------
