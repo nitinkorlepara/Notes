@@ -1,0 +1,6 @@
+run spring apps 
+java -jar name;
+
+mvnw package
+mvnw clean compile test
+mvnw spring-boot:run

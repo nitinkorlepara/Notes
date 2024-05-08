@@ -40,7 +40,7 @@ Additional Resources
 
  ---
 
- ## Design 
+ ## Core  
  #### Inversion of Control
     IoC is a principle, which states that the dependent classes should not create objects of the dependency classes. Dependency objects would be created by either the IoC container or the framework and be provided to the dependent object.
  [link](https://medium.com/@amitkma/understanding-inversion-of-control-ioc-principle-163b1dc97454)   

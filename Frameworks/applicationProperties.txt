@@ -1,0 +1,15 @@
+Actuator
+management.endpoints.web.exposure.include=*
+management.info.env.enabled=true
+ management.endpoints.web.exposure.exclude=health,info
+info.app.name=App name
+info.app.description=A Simple Spring Application
+info.app.version=1.0.0
+
+
+
+---------
+custom values
+test.temp= kortin
+@Value(${test.temp})
+private String temp;
