@@ -74,6 +74,9 @@ Additional Resources
 - Websocket
     - single bean to lifecycle of websocket
 
+
+#### bean for S3
+![S3 Bean Configuration](Bean_S3_AWS.png)
 ### Additional Resources
 [Spring Documentation]( https://docs.spring.io/spring-boot/docs/current/reference/html/index.html) <br>
 [SpringApplication](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.spring-application)
