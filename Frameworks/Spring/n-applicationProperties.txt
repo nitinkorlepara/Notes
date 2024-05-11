@@ -9,6 +9,9 @@ info.app.version=1.0.0
 Spring
 server.port= 8081
 
+lazy-initialization
+spring,main.lazy-initialization=true
+
 
 ---------
 custom values

@@ -52,7 +52,27 @@ Additional Resources
     - Field
     - Property
 
+#### Annotations
+- @Component, @Controller, @Service, @Repository
+- @SpringBootApplication( scanBasePackages={"com.kortin.tech",com.kortin.info}) 
+- @Qualifier 
+    - for determining the bean to be injected
+- @Primary
+- @Lazy - > initialize only when needed
 
+#### Bean Scopes
+- Singleton (Default)
+    - Single instance created
+- Prototype
+    - multiple instances created
+- Request
+    - single bean for a http request
+- Session
+    - single bean for lifecycle of http session
+- Application 
+    - single bean for lifecycle of servlet conetext
+- Websocket
+    - single bean to lifecycle of websocket
 
 ### Additional Resources
 [Spring Documentation]( https://docs.spring.io/spring-boot/docs/current/reference/html/index.html) <br>
