@@ -47,8 +47,10 @@ Additional Resources
  #### Dependency Injection
     dependency injection is a technique whereby one object (or static method) supplies the dependencies of another object. A dependency is an object that can be used (a service).
  [link](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
-    
-
+- Types
+    - Constructor
+    - Field
+    - Property
 
 
 
