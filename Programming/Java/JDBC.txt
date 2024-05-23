@@ -1,5 +1,0 @@
-My Sql Connections
-String url="jdbc:mysql://localhost:3306/census";
-String user="root";
-String password="admin";
-Connection connection=DriverManager.getConnection(url,user,password);
